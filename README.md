@@ -14,3 +14,5 @@ In this project, we developed an efficient AI maze solving agent to find the sho
 #
 
 ### User Interface:
+
+![maze](https://github.com/AhmedIssa11/Maze-Solving-Agent/blob/master/maze.png)
