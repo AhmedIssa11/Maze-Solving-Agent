@@ -5,7 +5,7 @@ In this project, we developed an efficient AI maze solving agent to find the sho
 #
 #
 
-### Implementation of the following Scheduling Algorithms:
+### Implementation of the following Searching Algorithms:
 - BFS
 - Greedy-Search
 - A*
